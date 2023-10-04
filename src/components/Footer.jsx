@@ -41,6 +41,12 @@ function Footer() {
             <FaDev className="text-offWhite hover:text-accent" />
           </a>
         </li>
+          <li 
+            className="p-2 sm:mr=5"
+          >
+            <a target= "_blank" href= " http:?//discord.com/invite/U2p3SNf23P" rel= noreferer">
+            </a>
+        
       </ul>
     </Container>
   );
